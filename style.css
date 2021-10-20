@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.list li {
+    font-size: 20px;
+}
+
+#curry {
+    background-color: lightgreen;
+}
+
+#tacos {
+    background-color: lightblue;
+}
+
+#spaghetti {
+    background-color: rgb(230, 137, 121);
+}
